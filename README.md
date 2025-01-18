@@ -22,5 +22,5 @@ Siga esses passos para rodar o projeto localmente:
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+git clone https://github.com/jefinhocps/aplicacao_api.git
+cd aplicacao_api
